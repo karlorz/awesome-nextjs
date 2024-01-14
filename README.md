@@ -1,4 +1,4 @@
-<h1 align="center">Awesome Nextjs</h1>
+<h1 align="center">Awesome Nextjs test</h1>
 
 <div align="center" width="120px" heigth="70px" style="display:flex;justify-content:center;align-items:center;">
 
